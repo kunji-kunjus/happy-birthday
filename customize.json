@@ -1,9 +1,9 @@
 {
-  "greeting": "My Dear",
-  "name": "Kunjus",
+  "greeting": "Ente",
+  "name": "Kunjus,",
   "greetingText": "",
   "wishText": "Enne kettiyillel kollum njan",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/achu.jpeg",
   "text1": "Enich ninne ishtalla :P",
   "textInChatBox": "Heppy birthday😘😘😘",
   "sendButtonLabel": "Send",
@@ -12,12 +12,12 @@
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
-  "text5Content": "You are my special kunji kunjus",
+  "text5Content": "You are my only kunji kunjus",
   "smiley": "😘",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "This is for the person whom I love the most on this planet.",
+  "replayText": "",
   "outroSmiley": ":)"
 }
